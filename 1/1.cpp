@@ -26,7 +26,7 @@ public:
             else
                 left = mid + 1;
         }
-        reutrn right;
+        return right;
     }
 
     bool dfs(vector<int>& cookies, int k, int ceiling, int cookie_idx)
