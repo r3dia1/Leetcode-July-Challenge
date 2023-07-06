@@ -5,7 +5,7 @@
 >> 2. 宣告變數sum紀錄當前subarray所有元素之和。
 >> 3. 宣告ans初始值為INT_MAX。(若是ans結束時仍為IN_MAX，則代表nums裡不存在符合之subarray。)  
 >> 4. 方法如下圖:  
->> ![image]()
+>> ![image](https://github.com/r3dia1/Leetcode-July-Challenge/blob/main/6/approach.jpg)
 >> 5. Time Compplexity: O(N)
 
 > BS + DFS: 
