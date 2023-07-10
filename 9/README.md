@@ -3,8 +3,8 @@
 >> 1. 根據題目給定的數據量 = 1e4，我們可以大致推斷解法時間複雜度可能落在O(K*N)，k is constant。  
 >> 2. 這邊要提到Kadane Algo: the maximum sum array，算法如下:
 >>> // x x x x x i  
->>> // dp[i]: the maimum array sum ending at i.
->>> dp[i] = max(nums[i], dp[i-1] + nums[i])
+>>> // dp[i]: the maimum array sum ending at i.  
+>>> // dp[i] = max(nums[i], dp[i-1] + nums[i])
 
 >> 3. 接著，根據題目的敘述我們可以把所求視為以下:
 >>> s = x x [a x x  b a a a] x  b x  
