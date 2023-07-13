@@ -3,6 +3,7 @@
 > Solution: BFS + Topology sort
 >> 1. We can view the problem as making every course in a topology order.
 >> 2. So we have to use topology sort to check if all the course can form a topology order or not.
+
 > Approach: 
 >> 1. Create a reverse adjacency lists of the course order graph.  
 >> 2. Calculate each nodes' indegree for BFS & Topology Sort.  
