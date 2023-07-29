@@ -32,5 +32,5 @@
         return 0.0;
 ```
 
-> 5. No need to calculate after 480048004800. Because, when n=4801n=4801n=4801, the probability is 0.999995382315≈1.00.999995382315 ≈ 1.00.999995382315≈1.0
-Thus, we can output 1.01.01.0 for any n>4800n > 4800n>4800.
+> 5. No need to calculate after 4800. Because, when n=4801n=4801n=4801, the probability is 0.999995382315≈1.0   
+>    Thus, we can output 1.0 for any n > 4800.
