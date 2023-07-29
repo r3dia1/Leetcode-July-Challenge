@@ -1,3 +1,4 @@
+# Leetcode-July-Challenge 7/28
 # 550. Game Play Analysis IV
 > Solution: Subquery with date_add
 >> Q: How to choose the day after the day they first logged in?
