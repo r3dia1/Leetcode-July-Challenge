@@ -23,4 +23,4 @@
             }
         }
 ```
-> 3. Time complexity : O(s1_length * s2_length) = O(N^2)
+> ## Time complexity : O(s1_length * s2_length) = O(N^2)
